@@ -1,4 +1,4 @@
-## Servus! 👋 I am Johannes
+## servus! 👋 I am Johannes
 
 Researcher in **computer architecture and system reliability**  
 Chair of Electronic Design Automation - [Electronic System Level](https://github.com/tum-ei-eda/)
@@ -6,7 +6,7 @@ Technical University of Munich (TUM)
 
 ---
 
-## Research
+## research
 
 My research focuses on improving the **reliability and security of computing systems** through architecture, compiler, and tooling support.
 
@@ -20,7 +20,7 @@ Key topics include:
 
 ---
 
-## Selected Publications
+## selected publications
 
 Here are some selected publications to which I contributed, which you can also find on GitHub:
 
@@ -51,7 +51,7 @@ Here are some selected publications to which I contributed, which you can also f
 
 ---
 
-## Academic profiles
+## academic profiles
 
 Google Scholar  
 https://scholar.google.com/citations?user=8y5ZQvUAAAAJ
