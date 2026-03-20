@@ -73,3 +73,5 @@ Here are some projects I currently enjoy on the side:
 
 - **[Latchup - Think you're good at RTL? Prove it.](https://www.latchup.app/)** [![Latchup Badge](https://latchup.app/badge/user/91eb2527-fcbb-4cc4-89da-fea225edffc7.svg)](https://latchup.app/user/91eb2527-fcbb-4cc4-89da-fea225edffc7)
   Well... I do not claim to be excellent at RTL. I tend to work on tools that generate, synthesize, and/or analyze RTL `¯\_(ツ)_/¯` · [Code](https://github.com/JoGei/latchup-subs)
+- **[esel-proc](https://github.com/JoGei/esel-proc) - Know you're bad at RTL and let a CPU do it.]** [![Latchup Badge](https://latchup.app/badge/user/f62eb5b5-15c3-4357-91c1-296e090f76aa.svg)](https://latchup.app/user/f62eb5b5-15c3-4357-91c1-296e090f76aa)
+  A fun little project that synthesizes a tiny RISC-V SoC into [latchup](https://www.latchup.app/) framework, allowing you to solve the RTL problems with C!
